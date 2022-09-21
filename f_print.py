@@ -1,2 +1,2 @@
-def f_print(a):
-    print(a)
+def f_print(text):
+    print(text)
